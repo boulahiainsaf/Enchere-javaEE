@@ -1,0 +1,13 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+	<div class="container">
+		<a href="<%=lienPageAccueil%>">
+				<img src="<%=request.getContextPath() %>/images/logo.JPG" alt="logo encheres" width="150">
+		</a>
+	</div>
+</nav>
+
+
+<%-- 
+<div class="logo">
+  <a href="<%=lienPageAccueil%>" class="text-dark">ENI-Enchères</a>
+</div> --%>
